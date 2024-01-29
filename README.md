@@ -1,7 +1,7 @@
 **About Me**
 ___
 Hey! I'm Shirelle, a Full-Stack software engineer.  I love all things web development, including building out backend APIs and accessible frontends. Some of the technologies I use to do this are: 
- - Javascript ES6/JSX (duh)
+ - Javascript ES6/JSX
  - React and React Testing Library
  - Java 
  - SpringBoot
